@@ -1,2 +1,2 @@
 # lab4_data
-A place to clone datasets for Google Colab
+Text files for colab notebook
